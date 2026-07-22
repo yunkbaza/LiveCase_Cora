@@ -1,1 +1,1 @@
-"""Ferramentas para diagnóstico, normalização e processamento de leads."""
+"""Pipeline de diagnóstico e processamento de leads."""

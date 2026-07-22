@@ -1,0 +1,1 @@
+"""Testes automatizados do pipeline de leads."""
