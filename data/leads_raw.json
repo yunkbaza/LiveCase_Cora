@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Maria Silva",
+    "email": "maria@example.com",
+    "phone": "+55 11 91234-5678",
+    "company": "Acme",
+    "message": "Quero contratar o plano enterprise pra minha empresa, é urgente",
+    "source": "form-site",
+    "created_at": "2026-01-05"
+  },
+  {
+    "name": "  joão souza ",
+    "email": "JOAO@EXAMPLE.COM ",
+    "phone": "11987654321",
+    "company": "",
+    "message": "só estou dando uma olhada, sem pressa nenhuma",
+    "source": "landing-bf",
+    "created_at": "05/01/2026"
+  },
+  {
+    "name": "João Souza",
+    "email": "joao@example.com",
+    "phone": "11987654321",
+    "company": "Souza ME",
+    "message": "",
+    "source": "landing-bf",
+    "created_at": "2026-01-06"
+  },
+  {
+    "name": "Carlos",
+    "email": "carlos.example.com",
+    "phone": "31 3333-4444",
+    "company": "Beta Ltda",
+    "message": "preciso de uma demo essa semana",
+    "source": "indicacao",
+    "created_at": "Jan 7, 2026"
+  },
+  {
+    "name": "Ana",
+    "phone": "(21) 99999-0000",
+    "company": "Gamma",
+    "message": "qual o preço de vocês?",
+    "source": "form-site",
+    "created_at": "2026/01/08"
+  },
+  {
+    "name": "PEDRO LIMA",
+    "email": "pedro@empresa.com.br",
+    "phone": "+55(31)98888-1111",
+    "company": "Empresa BR",
+    "message": "estou comparando alguns fornecedores, devo decidir mês que vem",
+    "source": "evento",
+    "created_at": "2026-01-09T10:30:00Z"
+  },
+  {
+    "nome": "Lucia",
+    "email": "lucia@test.io",
+    "message": "fechado, quero assinar agora mesmo",
+    "source": "form-site",
+    "created_at": "10-01-2026"
+  },
+  {
+    "source": "form-site",
+    "created_at": "2026-01-10"
+  },
+  {
+    "name": "Rafael",
+    "email": "rafa@x.com",
+    "phone": "11 90000-0000",
+    "company": "X Corp",
+    "source": "webinar",
+    "created_at": "2026-01-11"
+  },
+  {
+    "name": "Bia",
+    "email": "test+promo@gmail.com ",
+    "phone": "",
+    "company": "",
+    "message": "tô só pesquisando pra um trabalho da faculdade",
+    "source": "organico",
+    "created_at": "2026-01-11"
+  },
+  {
+    "name": "Maria Silva",
+    "email": "maria@example.com",
+    "phone": "",
+    "company": "Acme Inc",
+    "message": "",
+    "source": "form-site",
+    "created_at": "2026-01-12"
+  },
+  {
+    "name": "Otávio",
+    "email": "otavio@corp.com",
+    "phone": "+55 41 90000-1234",
+    "company": "Corp SA",
+    "message": "URGENTE: preciso falar com o time de vendas ainda hoje",
+    "source": "indicacao",
+    "created_at": "1767744000"
+  }
+]
